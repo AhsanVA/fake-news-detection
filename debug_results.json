@@ -1,0 +1,32 @@
+[
+  {
+    "input": "Apple releases new iPhone with holographic display.",
+    "probability": 6.552591571562516e-07,
+    "prediction": "Fake",
+    "expected": "Fake"
+  },
+  {
+    "input": "The World Health Organization explicitly stated that COVID-19 vaccines are safe.",
+    "probability": 0.9999997615814209,
+    "prediction": "Real",
+    "expected": "Real"
+  },
+  {
+    "input": "Aliens found in Mars by NASA rover.",
+    "probability": 1.7048446352418978e-06,
+    "prediction": "Fake",
+    "expected": "Fake"
+  },
+  {
+    "input": "ISRO successfully launches Chandrayaan-3 into orbit.",
+    "probability": 1.0,
+    "prediction": "Real",
+    "expected": "Real"
+  },
+  {
+    "input": "Government announces free gold for everyone.",
+    "probability": 1.7371505236951634e-05,
+    "prediction": "Fake",
+    "expected": "Fake"
+  }
+]
